@@ -1,5 +1,6 @@
 {
-    "offices": [        
+    "offices": [
+        { "id": "088", "region": "Orange", "city": "Ahoskie", "primaryPhone": "252-555-1111" },
         { "id": "209", "region": "Black", "city": "Archdale", "primaryPhone": "336-555-2222" },
         { "id": "165", "region": "Orange", "city": "Barco", "primaryPhone": "252-555-3333" },
         { "id": "011", "region": "Green", "city": "Butner", "primaryPhone": "919-555-4444" },
