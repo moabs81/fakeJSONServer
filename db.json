@@ -1,4 +1,62 @@
-{    
+{
+    "d": {
+        "dropDownOptions": [
+            {
+                "value": "Running",
+                "displayText": "Running"
+            },
+            {
+                "value": "Airplane",
+                "displayText": "Airplane"
+            },
+            {
+                "value": "Squalls",
+                "displayText": "Squalls"
+            },
+            {
+                "value": "BirthdayCake",
+                "displayText": "Birthday Cake"
+            },
+            {
+                "value": "DecisionSolid",
+                "displayText": "Gavel"
+            },
+            {
+                "value": "Highlight",
+                "displayText": "Highlighter"
+            }
+        ],
+        "defaults": [
+            {
+                "displayText": "",
+                "dropDownOption": ""
+            },
+            {
+                "displayText": "",
+                "dropDownOption": ""
+            },
+            {
+                "displayText": "",
+                "dropDownOption": ""
+            },
+            {
+                "displayText": "",
+                "dropDownOption": ""
+            },
+            {
+                "displayText": "",
+                "dropDownOption": ""
+            },
+            {
+                "displayText": "",
+                "dropDownOption": ""
+            },
+            {
+                "displayText": "",
+                "dropDownOption": ""
+            }
+        ]
+    },
     "officeCards": [{
             "id": "088",
             "district": "34",
